@@ -15,5 +15,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pythonbrad&repo=student_agenda)](https://github.com/pythonbrad/student_agenda) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pythonbrad&repo=dze_lanye)](https://github.com/pythonbrad/dze_lanye)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pythonbrad&repo=learn_mala_tcl)](https://github.com/pythonbrad/learn_mala_tcl)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pythonbrad&repo=algo_to_tcl)](https://github.com/pythonbrad/algo_to_tcl)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pythonbrad&repo=social_network)](https://github.com/pythonbrad/social_network)
