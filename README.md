@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there. I'm Fomegne (pythonbrad) 👋
 
 <!--
 **pythonbrad/pythonbrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- :zap: I am passioned by the tech
+- 🌱 I’m addicted to learning and growing every day
+  
+[![Pythonbrad's github stats](https://github-readme-stats.vercel.app/api?username=pythonbrad&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/pythonbrad/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pythonbrad)](https://github.com/pythonbrad/github-readme-stats)
+    
+### Packages I created
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pythonbrad&repo=student_agenda)](https://github.com/pythonbrad/student_agenda) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pythonbrad&repo=dze_lanye)](https://github.com/pythonbrad/dze_lanye)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pythonbrad&repo=learn_mala_tcl)](https://github.com/pythonbrad/learn_mala_tcl)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pythonbrad&repo=algo_to_tcl)](https://github.com/pythonbrad/algo_to_tcl)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pythonbrad&repo=social_network)](https://github.com/pythonbrad/social_network)
