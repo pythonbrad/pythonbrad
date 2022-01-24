@@ -6,6 +6,7 @@
 
 - :zap: I am passioned by the tech
 - 🌱 I’m addicted to learning and growing every day
+- All of my projects are available on [Gitlab](https://gitlab.com/pythonbrad) and [Github](https://github.com/pythonbrad)
   
 [![Pythonbrad's github stats](https://github-readme-stats.vercel.app/api?username=pythonbrad&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/pythonbrad/github-readme-stats)
 
