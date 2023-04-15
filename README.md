@@ -1,4 +1,4 @@
-### Hi there. I'm Fomegne (pythonbrad) 👋
+### Hi there. I'm Fomegne Brady (pythonbrad) 👋
 
 <!--
 **pythonbrad/pythonbrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
