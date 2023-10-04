@@ -8,7 +8,7 @@
 - 🌱 I’m addicted to learning and growing every day
 - All of my projects are available on [Gitlab](https://gitlab.com/pythonbrad) and [Github](https://github.com/pythonbrad)
 
-I’m on [@buymeacoffee](https://www.buymeacoffee.com/pythonbrad). If you like my work, you can buy me a coffee and share your thoughts 🎉☕️.
+I’m on [@buymeacoffee](https://www.buymeacoffee.com/pythonbrad). If you like my work, you can buy me a coffee and share your thoughts ☕️.
 
 <a href="https://www.buymeacoffee.com/pythonbrad" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
