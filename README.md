@@ -23,4 +23,4 @@ Sponsors keep me motivated in writing, maintaining projects, help open source an
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pythonbrad&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
-![](https://hit.yhype.me/github/profile?user_id=453
+![](https://hit.yhype.me/github/profile?user_id=453)
